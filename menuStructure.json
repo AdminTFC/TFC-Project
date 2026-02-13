@@ -630,7 +630,7 @@
             "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/all-products/steel/?app_mode=3"
         }
     },
-    "ไฟเบอร์ซีเมนต์บอร์ด": {
+    "บอร์ด": {
         "ไดมอนด์บอร์ดตราเพชร": {
             "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/diamond-board/?app_mode=3"
         },
@@ -643,6 +643,9 @@
         "อีซี่บอร์ดโอฬาร": {
             "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/oran-board/?app_mode=3"
         },
+        "บอร์ดลานนา": {
+            "url": "https://คลังกระเบื้อง.com/brands/lanna-plaswood/?app_mode=3"
+        },
         "เฌอร่าบอร์ด (Shera Board)": {
             "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/shera-board/?app_mode=3"
         },
@@ -651,9 +654,6 @@
         },
         "บอร์ดซุปเปอร์ซัน": {
             "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/supersun-board/?app_mode=3"
-        },
-        "บอร์ด ดูร่าวัน": {
-            "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/duraone-fiber-cement-board/?app_mode=3"
         }
     },
     "ยิปซั่ม": {
@@ -671,9 +671,6 @@
         },
         "ยิปซั่มบอร์ด ยิปไลน์": {
             "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/gypline-gypsum-board/?app_mode=3"
-        },
-        "ยิปซั่มบอร์ด ดูร่าวัน": {
-            "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/duraone-gypsum-board/?app_mode=3"
         }
     },
     "บอร์ดตกแต่งผนัง": {
@@ -711,9 +708,6 @@
         },
         "ไม้ตราเฌอร่า": {
             "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/shera-artificial-wood/?app_mode=3"
-        },
-        "ไม้ตราดูร่าวัน": {
-            "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/duraone-artificial-wood/?app_mode=3"
         },
         "ไม้ตราคอนวูด": {
             "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/conwood-artificial-wood/?app_mode=3"
@@ -765,6 +759,9 @@
         }
     },
     "ไม้อัดและไม้ก่อสร้าง": {
+        "ไม้อัด ลานนา": {
+            "url": "https://คลังกระเบื้อง.com/brands/lanna-plywood/?app_mode=3"
+        },
         "ไม้อัด เฌอร่า": {
             "url": "https://xn--12cfjb8g6bl2ezag5e8e9e.com/brands/shera-plywood/?app_mode=3"
         },
